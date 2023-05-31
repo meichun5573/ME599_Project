@@ -1,4 +1,4 @@
-# ME599_Project: Solving Cart-Pole System Using MPC and RL
+# Solving Cart-Pole System Using MPC and RL
 
 ## A. Project Description
 
