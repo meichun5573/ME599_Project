@@ -12,9 +12,10 @@ The Cart-Pole Swing-up system is a challenging control problem where the goal is
 <簡述>
 [示意圖] (gif)
 In this project, the dynamics model of the inverted pendulum on a cart is referred from [Data Driven Science & Engineering](databook.pdf (databookuw.com)).   
-<div style="text-align: center;">
-  <img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/cartpole.png?raw=true" width="300" height="200" alt="Cart-Pole Swing-up System">
-</div>
+<div align=center>
+<img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/cartpole.png?raw=true" width="300" height="200">
+</div>  
+
 
 
 ## Model Predictive Control (MPC)
