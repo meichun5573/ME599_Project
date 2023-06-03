@@ -9,7 +9,7 @@ William Lin, Joslyn Chen, John Cheng, Thomas Lin
 The Cart-Pole Swing-up system is a challenging control problem where the goal is to swing up the pendulum from its initial downward position by controlling the cart's movement. We plan to address this challenge by employing both Model Predictive Control (MPC) and Reinforcement Learning (RL) techniques within the Python library to stabilize the system and achieve the desired control objectives.
 
 ## Cart-Pole Swing-up System 
-In this project, the dynamics model of the inverted pendulum on a cart is referred from [Data Driven Science & Engineering](databook.pdf (databookuw.com)). Based on the dynamics model, the state of the system is cart position, velocity, pendulum angle, and angular velocity, while the control input represents the force applied to the cart.  
+In this project, the dynamics model of the inverted pendulum on a cart is referred from [Data Driven Science & Engineering](http://databookuw.com/databook.pdf). Based on the dynamics model, the state of the system is cart position, velocity, pendulum angle, and angular velocity, while the control input represents the force applied to the cart.  
 <div align=center>
 <img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/cartpole.png?raw=true" width="600" height="400">
 </div>  
