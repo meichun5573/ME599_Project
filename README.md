@@ -23,5 +23,5 @@ MPC is an advanced control technique that predicts system behavior, minimizing c
 ## Reinforcement Learning(RL) and Deep Q-network(DQN)
 In this project, we apply RL using the OpenAI Gym environment and the DQN algorithm. By exploring and improving based on feedback, RL agents can discover effective strategies for stabilizing dynamic systems like the Cart-Pole system. Our approach incorporates a neural-network structured dynamics model implemented with Tensorflow.
 <div align=center>
-<img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/DQN%20Flow%20Chart.JPG?raw=true" width="400" height="800">
+<img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/DQN%20Flow%20Chart.JPG?raw=true" width="600" height="800">
 </div>  
