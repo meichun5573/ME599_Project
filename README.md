@@ -16,6 +16,12 @@ In this project, the dynamics model of the inverted pendulum on a cart is referr
 
 ## Model Predictive Control (MPC)
 MPC is an advanced control technique that predicts system behavior, minimizing cost functions and satisfying constraints. With its adaptive nature and ability to handle constraints, MPC is well-suited for stabilizing the Cart-Pole system. In the scope of this study, we employ Scipy as our optimal problem solver.
+<div align=center>
+<img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/MPC%20Flow%20Chart.JPG?raw=true" width="300" height="200">
+</div>  
 
 ## Reinforcement Learning(RL) and Deep Q-network(DQN)
 In this project, we apply RL using the OpenAI Gym environment and the DQN algorithm. By exploring and improving based on feedback, RL agents can discover effective strategies for stabilizing dynamic systems like the Cart-Pole system. Our approach incorporates a neural-network structured dynamics model implemented with Tensorflow.
+<div align=center>
+<img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/DQN%20Flow%20Chart.JPG?raw=true" width="300" height="200">
+</div>  
