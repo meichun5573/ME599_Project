@@ -28,5 +28,5 @@ In this project, we apply RL using the OpenAI Gym environment and the DQN algori
 
 ## Animation Result
 <div align=center>
-<img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/MPC.gif?raw=true" width="600" height="400">
+<img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/MPC.gif?raw=true" width="500" height="400">
 </div> 
