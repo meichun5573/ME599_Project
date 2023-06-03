@@ -17,7 +17,7 @@ In this project, the dynamics model of the inverted pendulum on a cart is referr
 ## Model Predictive Control (MPC)
 MPC is an advanced control technique that predicts system behavior, minimizing cost functions and satisfying constraints. With its adaptive nature and ability to handle constraints, MPC is well-suited for stabilizing the Cart-Pole system. In the scope of this study, we employ Scipy as our optimal problem solver.
 <div align=center>
-<img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/MPC%20Flow%20Chart.JPG?raw=true" width="600" height="500">
+<img src="https://github.com/meichun5573/ME599_Project/blob/main/figure/MPC%20Flow%20Chart.JPG?raw=true" width="800" height="400">
 </div>  
 
 ## Reinforcement Learning(RL) and Deep Q-network(DQN)
